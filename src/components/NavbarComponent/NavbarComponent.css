@@ -1,0 +1,31 @@
+.navbarStyle{
+  background-color: #000;
+}
+
+.gymmageStyle{
+  height: 2rem;
+}
+.logoStyle{
+  height: 3rem;
+}
+.buttonStyle{
+  text-decoration: none;
+  font-family:cursive;
+ background-color: #ffffff;
+  border-radius: 5px;
+  cursor: pointer;
+  border: 2px solid white;
+  padding: 6px 10px;
+  font-size: 18px;
+  transition: all;
+  transition-duration: 500ms;
+}
+.buttonStyle:hover{
+  transition: 300ms;
+  background-color: #62D8EA;
+  color: #000;
+  box-shadow: 1px 1px 11px 2px #62D8EA;
+  border: 2px solid white;
+
+}
+

@@ -1,0 +1,51 @@
+
+.cardView{
+  width: 15rem;
+  height: 275px;
+  background-color: #000000;
+  border-radius: 10px;
+  filter: brightness(0.9);
+  box-shadow: 1px 1px 15px 5px #62D8EA;
+  transition: all;
+  transition-duration: 300ms;
+}
+.cardVieww:hover{
+  height: 275px;
+  transform:translateY(-20px);
+  background-color: rgb(49, 48, 48);
+  box-shadow: 1px 1px 15px 8px #000000;
+
+}
+.buttonVieww a{
+  color: black
+}
+.buttonVieww{
+  border-radius: 5px;
+  background-color: #fcf8f8;
+  font-family: 'Honk', system-ui;
+  font-family: 'Roboto Mono', monospace;
+  transition: background-color 0.9s ease-in-out;
+  border: 2px solid #000000;
+  transition: all;
+  transition-duration: 500ms;
+}
+.buttonVieww:hover{
+  background-color: #62D8EA ;
+  border: 2px solid white;
+  padding: 8px;
+  box-shadow: 1px 1px 11px 2px #62D8EA;
+}
+.imgView{
+  width: 22rem;
+  filter: brightnes(0.3);
+  opacity: 0.5;
+}
+.fontView{
+  border: 3px solid black;
+  color: #000;
+  background-color: #62D8EA;
+  filter: brightness(0.9);
+  font-family: 'Honk', system-ui;
+  font-family: 'Roboto Mono', monospace;
+  border-radius: 3px;
+}

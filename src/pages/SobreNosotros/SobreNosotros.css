@@ -1,0 +1,34 @@
+
+
+.container-all {
+ 
+  background: url('../../images/acercaDenosotros.png') center/cover no-repeat;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.footer-container {
+  width: 100%;
+  background-color: black;
+  text-align: center;
+  color: white;
+  margin-top: auto; 
+
+}
+
+.frase {
+  color: white;
+  font-family: 'Secular One', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: xxxx-larga;
+  font: bold;
+  margin-top: 50px;
+  transition: color 0.3s;
+}
+
+.frase:hover {
+  color: #62E8DA; 
+}

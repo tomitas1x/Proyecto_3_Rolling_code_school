@@ -1,0 +1,32 @@
+
+.ConteinerCard{
+  background-image: url('/src/images/ImgProyect.png');
+  border-radius: 10px;
+  box-shadow: 1px 1px 15px 8px #000000;
+  transition: all;
+  transition-duration: 400ms;
+}
+.ConteinerCard:hover{
+  transform:translateY(-10px);
+
+}
+.letter{
+  color: white;
+  border-color: white;
+}
+.colorDos{
+  color: black;
+}
+.colorForm{
+  background-color: #BCC8CB;
+  border-radius: 20px;
+}
+.colorForm:focus-visible{
+  background-color: #BCC8CB;
+  outline: none; 
+
+}
+.colorForm:focus {
+  border: 2px solid #a0a0a0; /* Puedes cambiar el color y el grosor del borde */
+  box-shadow: 0 0 4px #FFFFFF; /* Puedes cambiar el color y la intensidad del resplandor */
+}

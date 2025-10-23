@@ -1,0 +1,53 @@
+.footer-navbar {
+  position: relative;
+  width: 100%;
+  background-color: black;
+  text-align: center;
+  font-family: 'Secular One', sans-serif;
+
+}
+#footer-container .social-links li {
+  list-style: none; /* Quitar los puntos de la lista */
+  margin-bottom: 12px; /* Ajustar el espaciado entre enlaces de redes sociales */
+}
+
+#footer-container .info-links li {
+  list-style: none; /* Quitar los puntos de la lista */
+  margin-bottom: 12px; /* Ajustar el espaciado entre enlaces de información */
+}
+
+#footer-container .social-links a,
+#footer-container .info-links a {
+  text-decoration: none;
+}
+
+#footer-container .social-links a:hover,
+#footer-container .info-links a:hover {
+  text-decoration: underline;
+}
+.text-white {
+  color: white;
+}
+
+.fw-bold {
+  font-weight: bold;
+}
+
+.font-size-large {
+  font-size: 1.2rem;
+}
+
+.font-size-normal {
+  font-size: 0.9rem;
+}
+
+.logo-col {
+  text-align: center;
+}
+
+.logo-col img {
+  max-width: 50%;
+  height: auto;
+  max-height: 130px;
+ 
+}

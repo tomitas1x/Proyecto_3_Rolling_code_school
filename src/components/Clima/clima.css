@@ -1,0 +1,18 @@
+.containerClima{
+  background-color: #fc1919;  
+  height: 250px;
+}
+.m-0{
+  background-color: #000000;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.loco{
+  background: linear-gradient(to right, black, rgb(51, 49, 49));
+}
+.loco h1{
+}
+
+.loco2{
+  background: linear-gradient(to right, rgb(51, 49, 49), black);
+
+}

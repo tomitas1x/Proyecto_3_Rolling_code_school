@@ -1,0 +1,26 @@
+.styleCard{
+  width: 750px;
+  background-color: rgba(48, 45, 45, 0.7);
+  border-radius: 10px;
+}
+  
+.img{
+  width: 200px;
+  height: 200px;
+}
+.colorForm{
+  background-color: #BCC8CB;
+}
+.colorForm:focus-visible{
+  background-color: #BCC8CB;
+  outline: none; 
+
+}
+.colorForm:focus {
+  border: 2px solid #a0a0a0; /* Puedes cambiar el color y el grosor del borde */
+  box-shadow: 0 0 4px #FFFFFF; /* Puedes cambiar el color y la intensidad del resplandor */
+}
+.letterType{
+  font-family: 'Honk', system-ui;
+  font-family: 'Roboto Mono', monospace;
+}

@@ -1,0 +1,20 @@
+.colorLetra{
+  color: #62D8EA;
+}
+.colorFondo{
+  background-color: #302D2D;
+  border-color: #62D8EA;
+  color:#FFFFFF;
+}
+.colorFondo:focus-visible{
+  background-color: #302D2D;
+  border-color: #62D8EA;
+  color:#FFFFFF;
+}
+.colorFondoDos{
+  background-color: #141414;
+  border-color: black;
+}
+.botonModal{
+  background-color: black;
+}

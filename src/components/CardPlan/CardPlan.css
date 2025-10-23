@@ -1,0 +1,25 @@
+.cardPlan{
+  background-color: #302D2D;
+}
+.planColor{
+  color: #62D8EA;
+}
+.imagePlan{
+  height: 520px;
+  width: 270px;
+}
+.colorForm{
+  background-color: #FFFFFF;
+}
+.colorForm:focus-visible{
+  background-color: #fff;
+  outline: none; 
+}
+.colorForm:focus {
+  border: 2px solid #a0a0a0; /* Puedes cambiar el color y el grosor del borde */
+  box-shadow: 0 0 4px #FFFFFF; /* Puedes cambiar el color y la intensidad del resplandor */
+}
+.letterType{
+  font-family: 'Honk', system-ui;
+  font-family: 'Roboto Mono', monospace;
+}

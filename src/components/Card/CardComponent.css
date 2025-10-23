@@ -1,0 +1,17 @@
+.card-style {
+
+  height: 250px;
+  width: 200px;
+  margin: 10px;
+  background-color: rgba(135, 249, 245, 0.785);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 60px;
+  max-height: 300px;
+  font-family: 'Secular One', sans-serif;
+  transition: all 0.3s ease-in-out;
+
+}

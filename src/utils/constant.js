@@ -1,0 +1,1 @@
+export const API_URL = import.meta.env.VITE_API_URL || "https://proyecto-final-backend-n6g9.onrender.com/"
